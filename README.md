@@ -4,6 +4,7 @@
 ```json
 [
   {"username": "", "password": "", "panel": "", "ssh": ""},
+  {"username": "", "password": "", "panel": "", "ssh": ""},
   {"username": "", "password": "", "panel": "", "ssh": ""}
 ]
 ```
