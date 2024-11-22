@@ -7,4 +7,8 @@
   {"username": "", "password": "", "panel": "", "ssh": ""}
 ]
 ```
+## Hysteria2-Socks5安装脚本
+```json
+bash <(curl -s https://raw.githubusercontent.com/gshtwy/socks5-for-serv00/main/install-socks5-hysteria.sh)
+```
 
