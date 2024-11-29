@@ -16,7 +16,7 @@ bash <(curl -s https://raw.githubusercontent.com/gshtwy/socks5-for-serv00/main/i
 ```js
 pkill -kill -u 
 ```
-## 重置服务器
+## 删除文件及文件夹
 ```js
 chmod -R 755 ~/* 
 ```
