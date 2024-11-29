@@ -12,11 +12,13 @@
 ```js
 bash <(curl -s https://raw.githubusercontent.com/gshtwy/socks5-for-serv00/main/install-socks5-hysteria.sh)
 ```
-## 停止进程
+
+## 重置服务器
+### 停止进程
 ```js
 pkill -kill -u 
 ```
-## 删除文件及文件夹
+### 删除文件及其文件夹
 ```js
 chmod -R 755 ~/* 
 ```
