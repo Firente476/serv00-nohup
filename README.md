@@ -9,23 +9,23 @@
 ]
 ```
 ## Hysteria2-Socks5安装脚本
-```json
+```js
 bash <(curl -s https://raw.githubusercontent.com/gshtwy/socks5-for-serv00/main/install-socks5-hysteria.sh)
 ```
 ## 停止进程
-```json
+```js
 pkill -kill -u 
 ```
 ## 重置服务器
-```json
+```js
 chmod -R 755 ~/* 
 ```
-```json
+```js
 chmod -R 755 ~/.* 
 ```
-```json
+```js
 rm -rf ~/* 
 ```
-```json
+```js
 rm -rf ~/.* 
 ```
