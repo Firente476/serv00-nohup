@@ -3,9 +3,9 @@
 变量名称:ACCOUNTS_JSON
 ```json
 [
-  {"username": "", "password": "", "panel": "", "ssh": ""},
-  {"username": "", "password": "", "panel": "", "ssh": ""},
-  {"username": "", "password": "", "panel": "", "ssh": ""}
+  {"username": "***", "password": "***", "panel": "**", "ssh": "**"},
+  {"username": "***", "password": "***", "panel": "**", "ssh": "**"},
+  {"username": "***", "password": "***", "panel": "**", "ssh": "**"}
 ]
 ```
 ## Hysteria2-Socks5安装脚本
